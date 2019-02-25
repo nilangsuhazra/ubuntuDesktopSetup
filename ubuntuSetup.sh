@@ -2,4 +2,4 @@
 
 cd ~
 
-sudo apt install $(cat ~/ubuntu.packages) -y
+sudo apt update -y
